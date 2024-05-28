@@ -1,0 +1,20 @@
+[{
+    "nome":"Anakin",
+    "idade":22,
+    "éJedi?": true
+},
+{
+    "nome":"Maul",
+    "idade":32,
+    "éJedi?": false
+},
+{
+    "nome":"Sidious",
+    "idade":60,
+    "éJedi?": false
+},
+{
+    "nome":"Dookan",
+    "idade":77,
+    "éJedi?": false
+}]

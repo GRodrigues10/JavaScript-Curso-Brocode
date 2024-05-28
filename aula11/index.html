@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!--O name igual em todos os botões faz com que cada um deles seja selecionado por vez, caso o name fosse diferente, seria possível selecionar várias opções de uma vez só!-->
+    <input type="checkbox" name="Btn" id="myCheckBox">
+    <label for="myCheckBox">Subscribe</label><br>
+
+    <input type="radio" name="Btn" id="visaBtn">
+    <label for="visaBtn">Visa</label><br>
+
+    <input type="radio" name="Btn" id="masterCardBtn">
+    <label for="masterCardBtn">MasterCard</label><br>
+
+    <input type="radio" name="Btn" id="payPalBtn">
+    <label for="payPalBtn">Paypal</label><br><br>
+
+    <button type="submit" id="mySubmit">Submit</button> 
+
+    <p id="subResult"></p>
+    <p id="paymentResult"></p>
+
+    
+
+
+    <script src="index.js"></script>
+</body>
+</html>

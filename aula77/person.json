@@ -1,0 +1,6 @@
+{
+    "nome":"Anakin",
+    "idade":22,
+    "éJedi?": true,
+    "hobbies": ["Praia", "Churrasco", "Babá"]    
+}
